@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 20990ec6b45e544b0b5f28b1e0c1c96b
+guid: 4596d066c648a864882454505f87c7dd
 labels:
 - Programming
 - Scripting
@@ -24,7 +24,7 @@ labels:
 - Windows
 - MacOSX
 PluginImporter:
-  serializedVersion: 1
+  serializedVersion: 2
   iconMap:
     GameFlow.Command: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Commands: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
@@ -34,17 +34,24 @@ PluginImporter:
     GameFlow.Forces: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Key: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Keys: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Link: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.List: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Localization: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
     GameFlow.Localizations: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
     GameFlow.Macro: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Note: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.OnActivate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
-    GameFlow.OnApplicationFocus: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.OnApplicationInit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.OnApplicationPause: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.OnApplicationQuit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnApplicationFocus: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationInit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationPause: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationQuit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
     GameFlow.OnAwake: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.OnClick: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.OnCollisionEnter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
@@ -61,14 +68,16 @@ PluginImporter:
       type: 3}
     GameFlow.OnDeactivate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
-    GameFlow.OnDeselect: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnDeselect: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
     GameFlow.OnDestroy: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
     GameFlow.OnDrawGizmos: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
     GameFlow.OnEndEdit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
-    GameFlow.OnExternalMessage: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnExternalMessage: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
     GameFlow.OnFixedUpdate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
     GameFlow.OnGameOver: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
@@ -128,8 +137,6 @@ PluginImporter:
       type: 3}
     GameFlow.OnVariableChange: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
-    GameFlow.Link: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.Localization: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Overview: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Parameter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
@@ -141,26 +148,36 @@ PluginImporter:
     GameFlow.Ray: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Rays: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.State: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.StateMachine: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.Timer: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
-    GameFlow.Variable: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+    GameFlow.StateMachine: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
+    GameFlow.Timer: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Variable: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
     GameFlow.Variables: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
       type: 3}
   executionOrder: {}
   isPreloaded: 0
+  isOverridable: 0
   platformData:
-    Any:
-      enabled: 1
-      settings: {}
-    Editor:
-      enabled: 0
-      settings:
-        DefaultValueInitialized: true
-    WindowsStoreApps:
-      enabled: 0
-      settings:
-        CPU: AnyCPU
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 1
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 0
+        settings:
+          DefaultValueInitialized: true
+    data:
+      first:
+        Windows Store Apps: WindowsStoreApps
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
   userData: 
   assetBundleName: 
   assetBundleVariant: 
